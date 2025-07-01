@@ -1,7 +1,3 @@
-// ===============================
-// Enhanced Library Management System (C++98 Compatible)
-// ===============================
-
 #include <iostream>
 #include <fstream>
 #include <vector>
